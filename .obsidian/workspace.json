@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be344a1f9790b872",
+        "id": "7e359ad701c68d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "cdce1b6cf961ca8d",
+            "id": "64efc0ecbc85d82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "About"
             }
           }
         ]
@@ -191,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdce1b6cf961ca8d",
+  "active": "64efc0ecbc85d82e",
   "lastOpenFiles": [
+    "README.md",
     "Pasted image 20250517151518.png",
     "Gorges.png",
-    "README.md",
+    "About.md",
     "Pasted image 20250517150900.png"
   ]
 }
