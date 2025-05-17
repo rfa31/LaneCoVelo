@@ -150,13 +150,33 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "5463b3964fb84968",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e17cfb5a2be5a656",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,5 +192,10 @@
     }
   },
   "active": "cdce1b6cf961ca8d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20250517151518.png",
+    "Gorges.png",
+    "README.md",
+    "Pasted image 20250517150900.png"
+  ]
 }
